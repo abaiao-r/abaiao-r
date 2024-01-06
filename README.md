@@ -1,9 +1,8 @@
 # André Francisco Baião Rolão Cândido da Silva
 
-👋 Hi there! I'm André Francisco Baião Rolão Cândido da Silva, a passionate Computer Software Engineer based in Corroios, Portugal. Formerly a Football Coach and Professor of Physical Education, I've transitioned into the world of programming through the 42 Lisboa program.
+👋 Hi there! I'm André Francisco Baião Rolão Cândido da Silva, a passionate Computer Software Engineer. Formerly a Football Coach and Professor of Physical Education, I've transitioned into the world of programming through the 42 Lisboa program.
 
 ## About Me
-
 With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, and BASH (UNIX), I bring a unique blend of skills and experience. I'm driven by a relentless pursuit of knowledge, aiming not only to jumpstart my career but to foster an environment for continuous learning.
 
 ## Skills
@@ -12,10 +11,37 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 - **Web Development:** HTML, CSS
 - **Environments/System Administration:** CLI, UNIX/Linux, Docker
 - **Version Control:** Git, GitHub
-- **Other Skills:** SPSS, Microsoft Office, Driver License (B1)
+- **Other Skills:** SPSS, Microsoft Office
 - **Languages:** Portuguese (Native), English (C1), Spanish (B1), French (A2) [learning]
 
 ## Projects
+
+## Table of Contents
+- [C Projects](#c-projects): [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
+- [C++ Projects](#c++-projects): [ft_irc](https://github.com/abaiao-r/ft_irc)
+- [JavaScript Projects](#javascript-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence)
+- [Python Projects](#python-projects): [NetPractice](https://github.com/abaiao-r/NetPractice)
+- [Flask Projects](#flask-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+- [API Projects](#api-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+- [Automation Projects](#automation-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+- [Processes Projects](#processes-projects): [Minishell](https://github.com/abaiao-r/minishell)
+- [File Descriptors Projects](#file-descriptors-projects): [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
+- [Library Implementation Projects](#library-implementation-projects): [Minishell](https://github.com/abaiao-r/minishell) | [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
+- [Memory Management Projects](#memory-management-projects): [Minishell](https://github.com/abaiao-r/minishell) | [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
+- [Virtualization Projects](#virtualization-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception)
+- [Data Structures & Algorithms Projects](#data-structures--algorithms-projects): [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line) | [push_swap](https://github.com/abaiao-r/push_swap)
+- [Signals Projects](#signals-projects): [minitalk](https://github.com/abaiao-r/minitalk)
+- [Graphics Projects](#graphics-projects): [so_long](https://github.com/abaiao-r/so_long) | [cub3d](https://github.com/abaiao-r/cub3d)
+- [Networking Projects](#networking-projects): [minitalk](https://github.com/abaiao-r/minitalk) | [ft_irc](https://github.com/abaiao-r/ft_irc)
+- [Object-Oriented Programming Projects](#object-oriented-programming-projects): [ft_irc](https://github.com/abaiao-r/ft_irc) | [CPP Piscine](https://github.com/abaiao-r/CPP_Piscine)
+- [IRC Protocol Projects](#irc-protocol-projects): [ft_irc](https://github.com/abaiao-r/ft_irc)
+- [TCP/IP Projects](#tcpip-projects): [ft_irc](https://github.com/abaiao-r/ft_irc)
+- [BASH (UNIX) Projects](#bash-unix-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception)
+- [Web Development Projects](#web-development-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence) | [so_long](https://github.com/abaiao-r/so_long)
+- [Docker Projects](#docker-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception)
+- [System Administration Projects](#system-administration-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception) | [NetPractice](https://github.com/abaiao-r/NetPractice)
+- [Parallel Programming Projects](#parallel-programming-projects): [philosophers](https://github.com/abaiao-r/philosophers)
+
 
 ### [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
 
