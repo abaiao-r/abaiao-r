@@ -46,7 +46,9 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 - [System Administration Projects](#system-administration-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception) | [NetPractice](https://github.com/abaiao-r/NetPractice)
 - [Parallel Programming Projects](#parallel-programming-projects): [philosophers](https://github.com/abaiao-r/philosophers)
 
-
+<details>
+  <summary>💻 Description </summary>
+  
 ### [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
 
 - **Objective:** Provide 42 students with an efficient tool for generating and visualizing project portfolios.
@@ -143,6 +145,7 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 - **Skills:** Web development (JavaScript, HTML, CSS), Full-stack development.
 - **Relevance:** Focus on web development and full-stack development.
 
+</details>
 <!-- Add more projects following the same structure -->
 
 ## Let's Connect!
