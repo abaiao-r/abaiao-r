@@ -16,35 +16,62 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 
 ## Projects
 
-## Table of Contents
-
 ### Programming Languages
 - C: [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
 - C++: [ft_irc](https://github.com/abaiao-r/ft_irc)
 - JavaScript: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence)
-- Python Projects: [NetPractice](https://github.com/abaiao-r/NetPractice)
+- Python: [NetPractice](https://github.com/abaiao-r/NetPractice)
+
+### Data Structures & Algorithms
+- Sorting: [push_swap](https://github.com/abaiao-r/push_swap) | [CPP_Module_09]()
+- raycasting: [cub3D]()
+ 
 
 ### Web Development
-- [Flask Projects](#flask-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-- [API Projects](#api-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-- [Automation Projects](#automation-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-- [Processes Projects](#processes-projects): [Minishell](https://github.com/abaiao-r/minishell)
-- [File Descriptors Projects](#file-descriptors-projects): [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
-- [Library Implementation Projects](#library-implementation-projects): [Minishell](https://github.com/abaiao-r/minishell) | [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
-- [Memory Management Projects](#memory-management-projects): [Minishell](https://github.com/abaiao-r/minishell) | [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
-- [Virtualization Projects](#virtualization-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception)
-- [Data Structures & Algorithms Projects](#data-structures--algorithms-projects): [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line) | [push_swap](https://github.com/abaiao-r/push_swap)
-- [Signals Projects](#signals-projects): [minitalk](https://github.com/abaiao-r/minitalk)
-- [Graphics Projects](#graphics-projects): [so_long](https://github.com/abaiao-r/so_long) | [cub3d](https://github.com/abaiao-r/cub3d)
-- [Networking Projects](#networking-projects): [minitalk](https://github.com/abaiao-r/minitalk) | [ft_irc](https://github.com/abaiao-r/ft_irc)
-- [Object-Oriented Programming Projects](#object-oriented-programming-projects): [ft_irc](https://github.com/abaiao-r/ft_irc) | [CPP Piscine](https://github.com/abaiao-r/CPP_Piscine)
-- [IRC Protocol Projects](#irc-protocol-projects): [ft_irc](https://github.com/abaiao-r/ft_irc)
-- [TCP/IP Projects](#tcpip-projects): [ft_irc](https://github.com/abaiao-r/ft_irc)
-- [BASH (UNIX) Projects](#bash-unix-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception)
-- [Web Development Projects](#web-development-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence) | [so_long](https://github.com/abaiao-r/so_long)
-- [Docker Projects](#docker-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception)
-- [System Administration Projects](#system-administration-projects): [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception) | [NetPractice](https://github.com/abaiao-r/NetPractice)
-- [Parallel Programming Projects](#parallel-programming-projects): [philosophers](https://github.com/abaiao-r/philosophers)
+- HTML: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+- CSS: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+- API: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+
+### Frameworks
+- Flask: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
+
+### Virtualization and Containerization
+- Docker: [Inception](https://github.com/abaiao-r/Inception)
+- Virtual Machines: [born2beroot](https://github.com/abaiao-r/born2beroot)
+
+### System Administration and Networking
+- System Administration: [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception) | [NetPractice](https://github.com/abaiao-r/NetPractice)
+- TCP/IP: [ft_irc]() | [NetPractice]()
+- IRC Protocol: [ft_irc]()
+
+
+
+
+### Automation
+- Bash(UNIX): [born2beroot]() 
+- 
+
+### Networking
+- TCP/IP: [ft_irc]() | [NetPractice]()
+- IRC Protocol: [ft_irc]()
+
+### Graphics
+- raycasting: [cub3D]()
+- MiniLibX/X11: [so_long]() | [cub3D]()
+
+### Object-Oriented Programming
+- C++: [ft_irc]() | [CPP_Piscine]()
+
+### Parallel Programming
+- Threads and Mutexes: [philosophers]()
+
+### Other Concepts
+- Processes: [Minishell](https://github.com/abaiao-r/minishell)
+- File Descriptors: [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
+- Library Implementation: [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
+- Memory Management: [Minishell](https://github.com/abaiao-r/minishell) | [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
+- Signals: [minitalk](https://github.com/abaiao-r/minitalk)
+
 
 <details>
   <summary>💻 Description </summary>
