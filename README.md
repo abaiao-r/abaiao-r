@@ -19,10 +19,10 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 ## Table of Contents
 
 ### Programming Languages
-- [C Projects](#c-projects): [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
-- [C++ Projects](#c++-projects): [ft_irc](https://github.com/abaiao-r/ft_irc)
-- [JavaScript Projects](#javascript-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence)
-- [Python Projects](#python-projects): [NetPractice](https://github.com/abaiao-r/NetPractice)
+- C: [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
+- C++: [ft_irc](https://github.com/abaiao-r/ft_irc)
+- JavaScript: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence)
+- Python Projects: [NetPractice](https://github.com/abaiao-r/NetPractice)
 
 ### Web Development
 - [Flask Projects](#flask-projects): [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
