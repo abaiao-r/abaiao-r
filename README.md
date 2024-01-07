@@ -4,13 +4,16 @@
 - 🔭 I’m currently working on project Inception.
 - 🌱 I’m learning Docker.
 - 💬 Ask me about my projects!
-- 📫 How to reach me: 
+
+## 📫 How to reach me: 
+<div>
   <a href="https://linkedin.com/in/andrefrancisco-" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="andrefranciscorolao@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
 
 ## Skills
 
@@ -33,7 +36,7 @@
 ## Projects
 ## Table of Contents
 
-- [42 School Portfolio Generator](42-school-portfolio-generator) - Skills: Python, Flask, CLI, UX design
+- [42 School Portfolio Generator](#42-school-portfolio-generator) - Skills: Python, Flask, CLI, UX design
 - [Minishell](#minishell) - Skills: C programming, processes, file descriptors, command execution, etc.
 - [libft](#libft) - Skills: C programming, Algorithm implementation, string manipulation, Memory manipulation, Makefile usage, Norm compliance, Error handling
 - [ft_printf](#ft_printf) - Skills: C programming, Variadic functions, Memory management, Makefile usage, Norm compliance, Error handling
