@@ -1,18 +1,36 @@
-# André Francisco Baião Rolão Cândido da Silva
-
-👋 Hi there! I'm André Francisco Baião Rolão Cândido da Silva, a passionate Computer Software Engineer. Formerly a Football Coach and Professor of Physical Education, I've transitioned into the world of programming through the 42 Lisboa program.
+![André Francisco Baião Rolão Cândido da Silva](./github-header-image.png)
 
 ## About Me
-With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, and BASH (UNIX), I bring a unique blend of skills and experience. I'm driven by a relentless pursuit of knowledge, aiming not only to jumpstart my career but to foster an environment for continuous learning.
+- 🔭 I’m currently working on project Inception.
+- 🌱 I’m learning Docker.
+- 💬 Ask me about my projects!
+- 📫 How to reach me: 
+<div align="left">
+  <a href="https://linkedin.com/in/andrefrancisco-" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="andrefranciscorolao@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ## Skills
 
-- **Programming Languages:** C | C++ | JavaScript | Bash (UNIX)
-- **Web Development:** HTML | CSS
-- **Environments/System Administration:** CLI | UNIX/Linux | Docker
-- **Version Control:** Git | GitHub
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 ## Projects
 
 ### Programming Languages
@@ -42,9 +60,6 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 - System Administration: [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception) | [NetPractice](https://github.com/abaiao-r/NetPractice)
 - TCP/IP: [ft_irc]() | [NetPractice]()
 - IRC Protocol: [ft_irc]()
-
-
-
 
 ### Automation
 - Bash(UNIX): [born2beroot]() 
@@ -173,16 +188,5 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 
 </details>
 <!-- Add more projects following the same structure -->
-
-## Let's Connect!
-
-- LinkedIn: [André Francisco](https://linkedin.com/in/andrefrancisco-)
-- GitHub: [abaiao-r](https://github.com/abaiao-r)
-
-Feel free to explore my projects and reach out for collaborations or discussions. Let's code the future together! 🚀
-
-
-- LinkedIn: [André Francisco](https://linkedin.com/in/andrefrancisco-)
-- GitHub: [abaiao-r](https://github.com/abaiao-r)
 
 Feel free to explore my projects and reach out for collaborations or discussions. Let's code the future together! 🚀
