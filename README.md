@@ -54,8 +54,7 @@
 - [ft_transcendence](#ft_transcendence) - Skills: Web development (JavaScript | HTML | CSS) | Full-stack development
 
 
-<details>
-  <summary>💻 Description </summary>
+## 💻 Description 
   
 ### [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
 
@@ -153,7 +152,6 @@
 - **Skills:** Web development (JavaScript, HTML, CSS), Full-stack development.
 - **Relevance:** Focus on web development and full-stack development.
 
-</details>
 <!-- Add more projects following the same structure -->
 
 Feel free to explore my projects and reach out for collaborations or discussions. Let's code the future together! 🚀
