@@ -36,10 +36,10 @@
 ## Projects
 ## Table of Contents
 
-| Project | Skills |
+| Project | Description |
 | --- | --- |
-| [42 School Portfolio Generator](#42-school-portfolio-generator) | Python \| Flask \| CLI \| UX design |
-| [Minishell](#minishell) | C programming \| processes \| file descriptors \| command execution, etc. |
+| [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | <details><summary>Python \| Flask \| CLI \| UX/UI design</summary> <br> - **Objective:** Provide 42 students with an efficient tool for generating and visualizing project portfolios. <br> - **Relevance:** Demonstrated proficiency in API integration, automation, and web development. |
+| [Minishell](https://github.com/abaiao-r/minishell) | C programming \| processes \| file descriptors \| command execution, etc. |
 | [libft](#libft) | C programming \| Algorithm implementation \| string manipulation \| Memory manipulation \| Makefile usage \| Norm compliance \| Error handling |
 | [ft_printf](#ft_printf) | C programming \| Variadic functions \| Memory management \| Makefile usage \| Norm compliance \| Error handling |
 | [get_next_line](#get_next_line) | C programming \| File I/O \| Memory management \| Static variables \| Buffer handling \| Function implementation \| Norm compliance |
