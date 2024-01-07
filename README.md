@@ -7,12 +7,11 @@ With a comprehensive curriculum covering C, C++, JavaScript, HTML, CSS, Docker, 
 
 ## Skills
 
-- **Programming Languages:** C, C++, JavaScript, Bash (UNIX)
-- **Web Development:** HTML, CSS
-- **Environments/System Administration:** CLI, UNIX/Linux, Docker
-- **Version Control:** Git, GitHub
-- **Other Skills:** SPSS, Microsoft Office
-- **Languages:** Portuguese (Native), English (C1), Spanish (B1), French (A2) [learning]
+- **Programming Languages:** C | C++ | JavaScript | Bash (UNIX)
+- **Web Development:** HTML | CSS
+- **Environments/System Administration:** CLI | UNIX/Linux | Docker
+- **Version Control:** Git | GitHub
+
 
 ## Projects
 
