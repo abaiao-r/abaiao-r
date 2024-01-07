@@ -5,14 +5,12 @@
 - 🌱 I’m learning Docker.
 - 💬 Ask me about my projects!
 - 📫 How to reach me: 
-<div align="left">
   <a href="https://linkedin.com/in/andrefrancisco-" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="andrefranciscorolao@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
 
 ## Skills
 
@@ -31,61 +29,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
 ## Projects
+## Table of Contents
 
-### Programming Languages
-- C: [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
-- C++: [ft_irc](https://github.com/abaiao-r/ft_irc)
-- JavaScript: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator) | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence)
-- Python: [NetPractice](https://github.com/abaiao-r/NetPractice)
-
-### Data Structures & Algorithms
-- Sorting: [push_swap](https://github.com/abaiao-r/push_swap) | [CPP_Module_09]()
-- raycasting: [cub3D]()
- 
-
-### Web Development
-- HTML: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-- CSS: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-- API: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-
-### Frameworks
-- Flask: [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
-
-### Virtualization and Containerization
-- Docker: [Inception](https://github.com/abaiao-r/Inception)
-- Virtual Machines: [born2beroot](https://github.com/abaiao-r/born2beroot)
-
-### System Administration and Networking
-- System Administration: [born2beroot](https://github.com/abaiao-r/born2beroot) | [Inception](https://github.com/abaiao-r/Inception) | [NetPractice](https://github.com/abaiao-r/NetPractice)
-- TCP/IP: [ft_irc]() | [NetPractice]()
-- IRC Protocol: [ft_irc]()
-
-### Automation
-- Bash(UNIX): [born2beroot]() 
-- 
-
-### Networking
-- TCP/IP: [ft_irc]() | [NetPractice]()
-- IRC Protocol: [ft_irc]()
-
-### Graphics
-- raycasting: [cub3D]()
-- MiniLibX/X11: [so_long]() | [cub3D]()
-
-### Object-Oriented Programming
-- C++: [ft_irc]() | [CPP_Piscine]()
-
-### Parallel Programming
-- Threads and Mutexes: [philosophers]()
-
-### Other Concepts
-- Processes: [Minishell](https://github.com/abaiao-r/minishell)
-- File Descriptors: [Minishell](https://github.com/abaiao-r/minishell) | [push_swap](https://github.com/abaiao-r/push_swap)
-- Library Implementation: [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
-- Memory Management: [Minishell](https://github.com/abaiao-r/minishell) | [libft](https://github.com/abaiao-r/libft) | [ft_printf](https://github.com/abaiao-r/ft_printf) | [get_next_line](https://github.com/abaiao-r/get_next_line)
-- Signals: [minitalk](https://github.com/abaiao-r/minitalk)
-
+- [42 School Portfolio Generator](#42-school-portfolio-generator) - Skills: Python, Flask, CLI, UX design
+- [Minishell](#minishell) - Skills: C programming, processes, file descriptors, command execution, etc.
+- [libft](#libft) - Skills: C programming, Algorithm implementation, string manipulation, Memory manipulation, Makefile usage, Norm compliance, Error handling
+- [ft_printf](#ft_printf) - Skills: C programming, Variadic functions, Memory management, Makefile usage, Norm compliance, Error handling
+- [get_next_line](#get_next_line) - Skills: C programming, File I/O, Memory management, Static variables, Buffer handling, Function implementation, Norm compliance
+- [born2beroot](#born2beroot) - Skills: System administration, Virtualization, Operating system installation and configuration, Security measures, Bash scripting, Monitoring
+- [push_swap](#push_swap) - Skills: C programming, Algorithmic thinking, Sorting algorithms, Stack manipulation, Complexity analysis, Error handling, Makefile usage, Efficient code optimization
+- [minitalk](#minitalk) - Skills: C programming, Interprocess communication, UNIX signals, Error handling, Memory management, Makefile usage, Client-server architecture
+- [so_long](#so_long) - Skills: C programming, Window management, Event handling, Game development, Graphics programming, MiniLibX library, Error handling, Memory management, Makefile usage
+- [philosophers](#philosophers) - Skills: C programming, Threading, Mutexes, Concurrent programming, Synchronization, Resource management, Time management, Error handling, Makefile usage
+- [NetPractice](#netpractice) - Skills: Networking Concepts, Configuration Management, System Administration, Problem-Solving, Web Interface Usage, Git Repository Management
+- [cub3d](#cub3d) - Skills: C programming, Algorithm implementation, Graphic design, Ray-casting, MiniLibX library usage, Mathematics in game development
+- [Inception](#inception) - Skills: System Administration, Docker, Virtualization, Docker Compose, Dockerfiles, NGINX, WordPress, MariaDB, TLS, Security Best Practices
+- [CPP Piscine](#cpp-piscine) - Skills: C++ programming, Object-oriented programming
+- [ft_irc](#ft_irc) - Skills: C++, Network Programming, IRC Protocol, TCP/IP, Non-blocking I/O, Polling, Error Handling
+- [ft_transcendence](#ft_transcendence) - Skills: Web development (JavaScript, HTML, CSS), Full-stack development
 
 <details>
   <summary>💻 Description </summary>
@@ -162,7 +125,7 @@
 - **Skills:** C programming, Algorithm implementation, Graphic design, Ray-casting, MiniLibX library usage, Mathematics in game development.
 - **Relevance:** Enhance skills in C programming, algorithm implementation, and graphic design.
 
-### [Inception](https://github.com/abaiao-r/Inception)
+### [Inception](https://github.com/abaiao-r/Inception) 
 
 - **Objective:** Expand knowledge of system administration through Docker. Virtualize Docker images in a personal virtual machine, creating a small infrastructure with specific services and rules.
 - **Skills:** System Administration, Docker, Virtualization, Docker Compose, Dockerfiles, NGINX, WordPress, MariaDB, TLS, Security Best Practices.
