@@ -57,7 +57,7 @@
 
 
 
-## 💻 Description 
+## 💻 Description (Click on the name of the project to see the reposotory)
   
 ### [42 School Portfolio Generator](https://github.com/abaiao-r/42-Portfolio-Generator)
 
