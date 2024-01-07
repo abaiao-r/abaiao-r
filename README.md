@@ -33,7 +33,7 @@
 ## Projects
 ## Table of Contents
 
-- [42 School Portfolio Generator](#42-school-portfolio-generator) - Skills: Python, Flask, CLI, UX design
+- [42 School Portfolio Generator](42-school-portfolio-generator) - Skills: Python, Flask, CLI, UX design
 - [Minishell](#minishell) - Skills: C programming, processes, file descriptors, command execution, etc.
 - [libft](#libft) - Skills: C programming, Algorithm implementation, string manipulation, Memory manipulation, Makefile usage, Norm compliance, Error handling
 - [ft_printf](#ft_printf) - Skills: C programming, Variadic functions, Memory management, Makefile usage, Norm compliance, Error handling
