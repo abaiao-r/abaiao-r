@@ -36,22 +36,25 @@
 ## Projects
 ## Table of Contents
 
-- [42 School Portfolio Generator](#42-school-portfolio-generator) - Skills: Python | Flask | CLI | UX design
-- [Minishell](#minishell) - Skills: C programming | processes | file descriptors | command execution, etc.
-- [libft](#libft) - Skills: C programming | Algorithm implementation | string manipulation | Memory manipulation | Makefile usage | Norm compliance | Error handling
-- [ft_printf](#ft_printf) - Skills: C programming | Variadic functions | Memory management | Makefile usage | Norm compliance | Error handling
-- [get_next_line](#get_next_line) - Skills: C programming | File I/O | Memory management | Static variables | Buffer handling | Function implementation | Norm compliance
-- [born2beroot](#born2beroot) - Skills: System administration | Virtualization | Operating system installation and configuration | Security measures | Bash scripting | Monitoring
-- [push_swap](#push_swap) - Skills: C programming | Algorithmic thinking | Sorting algorithms | Stack manipulation | Complexity analysis | Error handling | Makefile usage | Efficient code optimization
-- [minitalk](#minitalk) - Skills: C programming | Interprocess communication | UNIX signals | Error handling | Memory management | Makefile usage | Client-server architecture
-- [so_long](#so_long) - Skills: C programming | Window management | Event handling | Game development | Graphics programming | MiniLibX library | Error handling | Memory management | Makefile usage
-- [philosophers](#philosophers) - Skills: C programming | Threading | Mutexes | Concurrent programming | Synchronization | Resource management | Time management | Error handling | Makefile usage
-- [NetPractice](#netpractice) - Skills: Networking Concepts | Configuration Management | System Administration | Problem-Solving | Web Interface Usage | Git Repository Management
-- [cub3d](#cub3d) - Skills: C programming | Algorithm implementation | Graphic design | Ray-casting | MiniLibX library usage | Mathematics in game development
-- [Inception](#inception) - Skills: System Administration | Docker | Virtualization | Docker Compose | Dockerfiles | NGINX | WordPress | MariaDB | TLS | Security Best Practices
-- [CPP Piscine](#cpp-piscine) - Skills: C++ programming | Object-oriented programming
-- [ft_irc](#ft_irc) - Skills: C++ | Network Programming | IRC Protocol | TCP/IP | Non-blocking I/O | Polling | Error Handling
-- [ft_transcendence](#ft_transcendence) - Skills: Web development (JavaScript | HTML | CSS) | Full-stack development
+| Project | Skills |
+| --- | --- |
+| [42 School Portfolio Generator](#42-school-portfolio-generator) | Python \| Flask \| CLI \| UX design |
+| [Minishell](#minishell) | C programming \| processes \| file descriptors \| command execution, etc. |
+| [libft](#libft) | C programming \| Algorithm implementation \| string manipulation \| Memory manipulation \| Makefile usage \| Norm compliance \| Error handling |
+| [ft_printf](#ft_printf) | C programming \| Variadic functions \| Memory management \| Makefile usage \| Norm compliance \| Error handling |
+| [get_next_line](#get_next_line) | C programming \| File I/O \| Memory management \| Static variables \| Buffer handling \| Function implementation \| Norm compliance |
+| [born2beroot](#born2beroot) | System administration \| Virtualization \| Operating system installation and configuration \| Security measures \| Bash scripting \| Monitoring |
+| [push_swap](#push_swap) | C programming \| Algorithmic thinking \| Sorting algorithms \| Stack manipulation \| Complexity analysis \| Error handling \| Makefile usage \| Efficient code optimization |
+| [minitalk](#minitalk) | C programming \| Interprocess communication \| UNIX signals \| Error handling \| Memory management \| Makefile usage \| Client-server architecture |
+| [so_long](#so_long) | C programming \| Window management \| Event handling \| Game development \| Graphics programming \| MiniLibX library \| Error handling \| Memory management \| Makefile usage |
+| [philosophers](#philosophers) | C programming \| Threading \| Mutexes \| Concurrent programming \| Synchronization \| Resource management \| Time management \| Error handling \| Makefile usage |
+| [NetPractice](#netpractice) | Networking Concepts \| Configuration Management \| System Administration \| Problem-Solving \| Web Interface Usage \| Git Repository Management |
+| [cub3d](#cub3d) | C programming \| Algorithm implementation \| Graphic design \| Ray-casting \| MiniLibX library usage \| Mathematics in game development |
+| [Inception](#inception) | System Administration \| Docker \| Virtualization \| Docker Compose \| Dockerfiles \| NGINX \| WordPress \| MariaDB \| TLS \| Security Best Practices |
+| [CPP Piscine](#cpp-piscine) | C++ programming \| Object-oriented programming |
+| [ft_irc](#ft_irc) | C++ \| Network Programming \| IRC Protocol \| TCP/IP \| Non-blocking I/O \| Polling \| Error Handling |
+| [ft_transcendence](#ft_transcendence) | Web development (JavaScript \| HTML \| CSS) \| Full-stack development |
+
 
 
 ## 💻 Description 
