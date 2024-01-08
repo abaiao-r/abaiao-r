@@ -34,7 +34,6 @@
 </div>
 
 ## Projects
-## Table of Contents
 
 | Project | Description |
 | --- | --- |
