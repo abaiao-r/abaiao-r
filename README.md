@@ -1,8 +1,8 @@
 ![André Francisco Baião Rolão Cândido da Silva](./github-header-image.png)
 
 ## About Me
-- 🔭 I’m currently working on project Inception.
-- 🌱 I’m learning Docker.
+- 🔭 I’m currently working on project ft_transcendence.
+- 🌱 I’m learning JavaScript, HTLM and CSS.
 - 💬 Ask me about my projects!
 
 ## 📫 How to reach me: 
@@ -16,12 +16,15 @@
 </div>
 
 ## Skills
-C | C++ | Docker | Bash | Unix | Git | GitHub
+C | C++ | Python | Jupyter Notebook | Docker | Bash | Unix | Git | GitHub
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
