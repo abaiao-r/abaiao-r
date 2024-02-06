@@ -1,4 +1,4 @@
-![André Francisco Baião Rolão Cândido da Silva](./github-header-image.png)
+![André Francisco Baião Rolão Cândido da Silva](./github-header-image(4).png)
 
 ## About Me
 - 🔭 I’m currently working on project ft_transcendence.
