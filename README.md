@@ -16,7 +16,7 @@
 </div>
 
 ## Skills
-C | C++ | Python | Jupyter Notebook | Docker | Bash | Unix | Git | GitHub
+C | C++ | Python | Jupyter Notebook | JavaScript | HTML | CSS | Kotlin | Jetpack Compose | Docker | Bash | Unix | Git | GitHub
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -25,6 +25,17 @@ C | C++ | Python | Jupyter Notebook | Docker | Bash | Unix | Git | GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpack compose logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -40,6 +51,7 @@ C | C++ | Python | Jupyter Notebook | Docker | Bash | Unix | Git | GitHub
 
 | Project | Description |
 | --- | --- |
+| [CTWNoteApp](https://github.com/abaiao-r/CTWNoteApp)|  <details> <summary> Kotlin \| Jetpack Compose \| Android Development </summary> <br> **Objective:** Develop a simple note-taking app with features like note creation, editing, deletion, and sorting. <br> **Relevance:** Practice Android development using Kotlin and Jetpack Compose. | </details>
 | [Piscine_Object](https://github.com/abaiao-r/Piscine_Object) | <details> <summary> C++ programming \| Object-oriented programming </summary> <br> **Objective:** Explore and practice C++ programming with various exercises. <br> **Relevance:** Delve into C++ programming and object-oriented concepts. |
 | [ft_transcendence](https://github.com/abaiao-r/ft_transcendence) | <details> <summary> Web development (JavaScript \| HTML \| CSS) \| Full-stack development </summary> <br> **Objective:** Build a web-based platform for competitive multiplayer games. <br> **Relevance:** Focus on web development and full-stack development. |
 | [Exploring_Hacker_News_Posts](https://github.com/abaiao-r/Exploring_Hacker_News_Posts) | <details> <summary> Data Extraction \| Data Cleaning \| Python Scripting \| Data Analysis \| Jupyter Notebook </summary> <br> **Objective:** This project involves analyzing a dataset of Hacker News posts to answer two primary questions:(1) Do "Ask HN" or "Show HN" posts receive more comments on average?; (2) Do posts created at a certain time receive more comments on average? <br> **Relevance:** Gain practical experience in extract data from datasets like csv, excell, cleaning data and analysing it |
