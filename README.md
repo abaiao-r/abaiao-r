@@ -1,8 +1,8 @@
 ![André Francisco Baião Rolão Cândido da Silva](./github-header-image.png)
 
 ## About Me
-- 🔭 I’m currently working on project ft_transcendence.
-- 🌱 I’m learning JavaScript, HTLM and CSS.
+- 🔭 I’m currently working on projects related to Data Science and Object-Oriented Programming.
+- 🌱 I’m deepening my knowledge in Python and data management techniques.
 - 💬 Ask me about my projects!
 
 ## 📫 How to reach me: 
@@ -45,6 +45,7 @@ C | C++ | Python | Jupyter Notebook | JavaScript | HTML | CSS | Kotlin | Jetpack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ## Projects
